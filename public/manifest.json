@@ -1,0 +1,16 @@
+{
+  "name": "TERMINAL_TODO v2.0",
+  "short_name": "T_TODO",
+  "description": "黑客终端风格任务管理系统",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00ff41",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/wired/512/00ff41/terminal.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
